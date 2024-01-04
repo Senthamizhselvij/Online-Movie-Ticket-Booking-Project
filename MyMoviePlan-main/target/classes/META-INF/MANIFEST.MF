@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Srimathi
+Build-Jdk: 18.0.1.1
+Implementation-Title: My-Movie-Planner
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.movieplan
+Implementation-URL: https://spring.io/projects/spring-boot/My-Movie-Plan
+ ner
+Created-By: Maven Integration for Eclipse
+
